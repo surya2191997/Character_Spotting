@@ -1,4 +1,4 @@
-# Character_Spotting
+# GlyphSpotting
 
 Spotting of Bali characters on manuscript images. The dataset contains about 10 manuscript images from which characters are segregated and annotated manually. This is train set for the classifier which contains about 19000 annotated character images. Final goal is : Given a querry image, spot the characters in the manuscript with the same annotation such that there is maximum overlap with the ground truth.
 
